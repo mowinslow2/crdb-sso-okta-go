@@ -2,7 +2,7 @@
 
 This repository contains a simple Go CRUD app that uses tokens retrieved from Okta to connect to CockroachDB. 
 
-For more details on the code, OKTA setup, and CockroachDB refer to [this blog]()
+For more details on the code, OKTA setup, and CockroachDB refer to [this blog](https://morgans-blog.deno.dev/sso_dedicated_okta_golang)
 
 ## Variables Required
 
